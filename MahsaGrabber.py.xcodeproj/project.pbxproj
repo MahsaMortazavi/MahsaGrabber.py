@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		3C42B2971805FCF0003A5310 /* Mahsagrabber.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Mahsagrabber.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		3C42B28A1805FCA9003A5310 = {
 			isa = PBXGroup;
 			children = (
+				3C42B2971805FCF0003A5310 /* Mahsagrabber.py */,
 			);
 			sourceTree = "<group>";
 		};
